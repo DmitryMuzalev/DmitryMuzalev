@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dima — Frontend Developer
 
-💻 Passionate about building modern web applications with **JavaScript** and **TypeScript**.
+💻 **I love building modern web applications with JavaScript and TypeScript.**
 
 ## 📬 Contact
 
