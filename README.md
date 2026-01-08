@@ -9,7 +9,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/muzalev771)
 
 ## 📊 GitHub Activity
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmitryMuzalev&show_icons=true&theme=radical" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmitryMuzalev&layout=compact&theme=radical" height="140px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmitryMuzalev&layout=compact&theme=radical" height="140px"/>
 
 ## 👨‍💻 Codewars
 
